@@ -1,0 +1,7 @@
+print("hello world")
+print("hello guys")
+print(7*8)
+print("hello gups shdajsdskfndkfs")
+print("hello billiot")
+print("hello ashihs")
+print("hello ahsish")
